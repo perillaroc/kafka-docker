@@ -1,4 +1,4 @@
-FROM docker.cn/docker/centos:7
+FROM centos:7
 
 MAINTAINER Perilla Roc <perillaroc@gmail.com>
 
